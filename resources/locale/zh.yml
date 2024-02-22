@@ -1,0 +1,12 @@
+gtdxyz-cookie-consent:
+  admin:
+    settings:
+      configuration_title: 配置
+      consentTitle: 标题
+      consentText: 提示内容
+      contactLink: 联系我们链接
+      privacyLink: 隐私协议链接
+      consentMode: 显示样式
+      modes:
+        light: Light
+        dark: Dark

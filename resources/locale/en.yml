@@ -1,0 +1,12 @@
+gtdxyz-cookie-consent:
+  admin:
+    settings:
+      configuration_title: Configuration Options
+      consentTitle: Content Title
+      consentText: Content Message
+      contactLink: Contact Link
+      privacyLink: Privacy Link
+      consentMode: Theme
+      modes:
+        light: Light
+        dark: Dark
